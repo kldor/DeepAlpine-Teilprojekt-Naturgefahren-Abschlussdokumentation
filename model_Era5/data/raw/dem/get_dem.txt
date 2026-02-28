@@ -1,0 +1,6 @@
+Data Source: OpenTopography
+Dataset: Copernicus Global Digital Elevation Models (COP30, COP90)
+DOI: https://doi.org/10.5069/G9028PQB
+OT Collection ID: OT.032021.4326.1
+Collection Platform: Satellite Data
+URL: https://portal.opentopography.org/datasetMetadata?otCollectionID=OT.032021.4326.1

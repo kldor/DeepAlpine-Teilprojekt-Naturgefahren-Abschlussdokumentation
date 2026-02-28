@@ -1,0 +1,8 @@
+Quelle: Automatisch generiert durch Vorverarbeitungsskripte.
+
+Benötigter Input (Rohdaten / 10m Zwischendaten):
+- Basis-Raster und ERA5 Daten
+
+Output (Generierte 500m Raster):
+- 500m Template Grid (Referenz-Gitter für das ERA5 Modell).
+ Sobald die entsprechenden Skripte zur Gittererstellung ausgeführt werden, wird das 500m Raster hier automatisch abgelegt.

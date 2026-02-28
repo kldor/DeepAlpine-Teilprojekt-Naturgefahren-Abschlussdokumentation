@@ -1,0 +1,2 @@
+Data Source: Geobrowser South Tyrol (Autonome Provinz Bozen - Südtirol)
+URL: https://natur-raum.provinz.bz.it/de/geobrowser-maps

@@ -1,0 +1,22 @@
+name: deepalpine_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python>=3.10
+  - numpy
+  - pandas
+  - xarray
+  - netcdf4
+  - scipy
+  - rasterio
+  - geopandas
+  - pyproj
+  - scikit-learn
+  - joblib
+  - matplotlib
+  - seaborn
+  - tqdm
+  - ipykernel
+  - libnetcdf
+  - libjpeg-turbo

@@ -1,0 +1,9 @@
+Quelle: Automatisch generiert durch Vorverarbeitungsskripte.
+
+Benötigter Input (Rohdaten):
+- DEM (Digitales Höhenmodell) in 'Data/raw/dem'
+- Neigungsdaten (Slope) in 'Data/raw/slope'
+
+Output (Generierte 10m Raster):
+- Geländeparameter auf einer Auflösung von 10m.
+ Sobald die entsprechenden Skripte zur Datenaufbereitung ausgeführt werden, werden die prozessierten Raster (z. B. .tif) hier automatisch abgelegt.
